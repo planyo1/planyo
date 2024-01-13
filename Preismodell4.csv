@@ -1,7 +1,7 @@
 Preismodell CSV File,,all
 Duration,<5h,+70 CHF
 Duration,5h - 24h,+100 CHF
-Duration,24h - 48h,+160 CHF
+Duration,>24h - 48h,+160 CHF
 Duration,48h - 72h,+220 CHF
 Duration,72h - 96h,+280 CHF
 Duration,96h - 120h,+330 CHF
