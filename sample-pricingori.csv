@@ -1,0 +1,10 @@
+Sample pricing CSV file,,Apartment Blue,Apartment Red,Period
+,,100 CHF per night,120 CHF per night,
+,,120 CHF per night,130 CHF per night,01.06.2013-01.09.2013
+Low season discount,,80 CHF per night,90 CHF per night,01.01.2013-01.04.2013
+Duration,>7 days,-10%,-10%,
+Duration,1-5 days,+5%,+5%
+Additional persons,>2,+20 CHF per person&night,+20 per person&night,
+Supplement new years eve,,+50 CHF,+50 CHF,31.12.2013-31.12.2013
+Airport transfer,Yes,+40 CHF/person,+40 CHF/person,
+Tax,,+8%,+8%,
