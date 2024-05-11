@@ -1,10 +1,10 @@
 Preismodell CSV File,,
-Duration,0 - <5h,-20 CHF
-Duration,>24h - 2 days,+50 CHF
-Duration,>2 days - 3 days,+90 CHF
-Duration,>3 days - 4 days,+125 CHF
-Duration,>4 days - 5 days,+160 CHF
-Duration,>5 days - 6 days,+195 CHF
-Duration,>6 days - 7 days,+225 CHF
-Additional days, >7 days,+225 CHF
+Duration,0 - <5h,-10 CHF
+Duration,>24h - 2 days,+60 CHF
+Duration,>2 days - 3 days,+100 CHF
+Duration,>3 days - 4 days,+135 CHF
+Duration,>4 days - 5 days,+170 CHF
+Duration,>5 days - 6 days,+205 CHF
+Duration,>6 days - 7 days,+235 CHF
+Additional days, >7 days,+235 CHF
 Additional days, >7 days,+27 CHF per day
