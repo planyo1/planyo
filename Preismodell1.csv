@@ -7,4 +7,5 @@ Duration,>71,+60 CHF
 Duration,>95,+50 CHF
 Duration,>119,+50 CHF
 Duration,>143,+40 CHF
-Additional days, >7 days,+400 CHF per day
+Additional days, >7 days,+40 CHF per day
+Weekday, start, 1
