@@ -11,10 +11,10 @@ Duration,>95,+50 CHF
 Duration,>119,+50 CHF
 Duration,>143,+40 CHF
 Additional days, >7 days,+40 CHF per day
-start Weekday, 6, text: "Samstags nur bis 16h geöffnet!" 
-end Weekday, 6, text: "Samstags nur bis 16h geöffnet!" 
-start Weekday, 0-1, text: "Sonntag und Montag ist der Shop geschlossen und es sind keine Übernahmen/Rückgaben möglich"
-end Weekday, 0-1, text: "Sonntag und Montag ist der Shop geschlossen und es sind keine Übernahmen/Rückgaben möglich"
+start Weekday, 6, err: "Samstags nur bis 16h geöffnet!" 
+end Weekday, 6, err: "Samstags nur bis 16h geöffnet!" 
+start Weekday, 0-1, err: "Sonntag und Montag ist der Shop geschlossen und es sind keine Übernahmen/Rückgaben möglich"
+end Weekday, 0-1, err: "Sonntag und Montag ist der Shop geschlossen und es sind keine Übernahmen/Rückgaben möglich"
 start hour, 16:30 - 23:45, text: "Samstags nur bis 16h geöffnet!", Apply this rule only if ANY of the following rules were applied: 11
 end hour, 16:30 - 23:45, text: "Samstags nur bis 16h geöffnet!", Apply this rule only if ANY of the following rules were applied: 11
 Season of the start date, Feiertag, text: "geschlossen (Feiertag)"
