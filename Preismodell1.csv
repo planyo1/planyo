@@ -19,5 +19,5 @@ start hour, 16:30 - 23:45, text: "Samstags nur bis 16h geöffnet!", Apply this r
 end hour, 16:30 - 23:45, text: "Samstags nur bis 16h geöffnet!", Apply this rule only if ANY of the following rules were applied: 11
 Season of the start date, Feiertag, text: "geschlossen (Feiertag)"
 Season of the end date, Feiertag, text: "geschlossen (Feiertag)"
-start Weekday, 5, Apply this rule only if ANY of the following rules were applied: 4,5, -110 CHF
-start Weekday, 6, Apply this rule only if ANY of the following rules were applied: 3,5, -120 CHF
+start Weekday, 5, -110 CHF, Apply this rule only if ANY of the following rules were applied: 4,5
+start Weekday, 6, -120 CHF, Apply this rule only if ANY of the following rules were applied: 3,5
