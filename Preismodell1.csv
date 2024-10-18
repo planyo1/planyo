@@ -1,5 +1,8 @@
 on of Preismodell CSV File,,all
 ,,+60 CHF
+Number of calendar days, 4
+Number of calendar days, 5
+end hour, 00:00 - 12:00
 Duration,>4,+30 CHF
 Duration,>23,+60 CHF
 Duration,>47,+60 CHF
@@ -16,3 +19,5 @@ start hour, 16:30 - 23:45, text: "Samstags nur bis 16h geöffnet!", Apply this r
 end hour, 16:30 - 23:45, text: "Samstags nur bis 16h geöffnet!", Apply this rule only if ANY of the following rules were applied: 11
 Season of the start date, Feiertag, text: "geschlossen (Feiertag)"
 Season of the end date, Feiertag, text: "geschlossen (Feiertag)"
+start Weekday, 5, -110 CHF,Apply this rule only if ANY of the following rules were applied: 4,5
+start Weekday, 6, -120 CHF,Apply this rule only if ANY of the following rules were applied: 3,5
