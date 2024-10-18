@@ -1,4 +1,4 @@
-Preismodell CSV File,,all
+on of Preismodell CSV File,,all
 ,,+60 CHF
 Duration,>4,+30 CHF
 Duration,>23,+60 CHF
@@ -14,3 +14,5 @@ start Weekday, 0-1, text: "Sonntag und Montag ist der Shop geschlossen und es si
 end Weekday, 0-1, text: "Sonntag und Montag ist der Shop geschlossen und es sind keine Übernahmen/Rückgaben möglich"
 start hour, 16:30 - 23:45, text: "Samstags nur bis 16h geöffnet!", Apply this rule only if ANY of the following rules were applied: 11
 end hour, 16:30 - 23:45, text: "Samstags nur bis 16h geöffnet!", Apply this rule only if ANY of the following rules were applied: 11
+Season of the start date, Feiertag, text: "geschlossen (Feiertag)"
+Season of the end date, Feiertag, text: "geschlossen (Feiertag)"
